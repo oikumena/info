@@ -8,6 +8,8 @@
 
 ## Informace
 
+* [Facebooková skupina Doc. Pince k jeho přednáškám](https://www.facebook.com/groups/OikumenouCasemaProstorem)
+
 [..]
 
 ***
