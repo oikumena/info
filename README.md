@@ -16,7 +16,22 @@
 
 ## Události
 
-[..]
+
+   
+__#1. Péče o duši - Platón a Aristoteles (#metauvod)__   
+_1. října 2017 (Neděle) v 9:30h_   
+_odkaz FB: [Péče o duši - Platón a Aristoteles](https://www.facebook.com/events/354175528354587/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22null%22%7D&source=4&action_history=null)_
+   
+__Četba na seminář:__   
+1) Kapitola 10, Transformace ontologického projektu u Aristotela. PATOČKA, Jan. Péče o duši II: Stati z let 1970-1977. Praha: Oikoymenh, 1999, s. 314-326   
+   
+2) Kapitola 11, Pohyb péče o duši u Platóna a Aristotela. PATOČKA, Jan. Péče o duši II: Stati z let 1970-1977. Praha: Oikoymenh, 1999, s. 327-355.
+
+3) Doc. Pinc doporučuje zopakovat si dějiny Řecka. Lehké a zábavné čtení je 📙Schwanitz - Vzdělanost jako živý dialog s minulostí, str 37-77 (kapitolky "Klasická antika" a "Dvě kultury, dva národy, dva texty"). PDF naleznete v Moodle->Uvodní kurzy a cykly-> "Schwanitz 1. část ke kolokviu".   
+   
+Čítanka: http://tiny.cc/uvod1   
+Přehled všech přednášek http://tiny.cc/uvodprehled   
+
 
 #### Minulé
 
