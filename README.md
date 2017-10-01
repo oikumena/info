@@ -30,7 +30,7 @@ __Četba na seminář:__
 3) Doc. Pinc doporučuje zopakovat si dějiny Řecka. Lehké a zábavné čtení je 📙Schwanitz - Vzdělanost jako živý dialog s minulostí, str 37-77 (kapitolky "Klasická antika" a "Dvě kultury, dva národy, dva texty"). PDF naleznete v Moodle->Uvodní kurzy a cykly-> "Schwanitz 1. část ke kolokviu".   
    
 Čítanka: [http://tiny.cc/uvod1](http://tiny.cc/uvod1)   
-Přehled všech přednášek [http://tiny.cc/uvodprehled](http://tiny.cc/uvodprehled)
+Přehled všech přednášek [http://tiny.cc/uvodprehled](http://tiny.cc/uvodprehled)    
 Registrace docházky: [http://tiny.cc/dochazkaregistrace](http://tiny.cc/dochazkaregistrace)    
 
    
