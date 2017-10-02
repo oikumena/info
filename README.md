@@ -1,13 +1,13 @@
 # [Oikumena](http://oikumena.cz/)
-
+   
+## Registrace docházky: [http://tiny.cc/dochazkaregistrace](http://tiny.cc/dochazkaregistrace)   
+   
 - [Informace](#Informace)
 - [Události](#Udalosti)
 
-
 ***
 
-## Informace
-
+## Informace  
 * [Facebooková skupina Doc. Pince k jeho přednáškám](https://www.facebook.com/groups/OikumenouCasemaProstorem)
 
 [..]
