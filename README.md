@@ -1,17 +1,25 @@
 # [Oikumena](http://oikumena.cz/)
    
-## Registrace docházky: [http://tiny.cc/dochazkaregistrace](http://tiny.cc/dochazkaregistrace)   
+##   
    
+- [Rozvrh](#Rozvrh)
 - [Informace](#Informace)
 - [Události](#Udalosti)
-
+   
 ***
-
+   
+## Rozvrh přednášek doc. Pince
+**Kořeny evropské tradice I.** , Po 8:00 (Y1034)   
+**Úvod do fenomenologie III. - Jan Patočka**, Po 12:30 (Y5021)   
+**Oikoumenou časem a prostorem I.**, Po 14:00 (Y1034)    
+**Úvod do humanitních věd a studia vzdělanosti**, 1.10.2017, 15.10.2017, 5.11.2017, 19.11.2017, 3.12.2017, 7.1.2017   
+   
+***
+   
 ## Informace  
-* [Facebooková skupina Doc. Pince k jeho přednáškám](https://www.facebook.com/groups/OikumenouCasemaProstorem)
-
-[..]
-
+* Registrace docházky: [http://tiny.cc/dochazkaregistrace](http://tiny.cc/dochazkaregistrace)    
+* [Facebooková skupina Doc. Pince k jeho přednáškám](https://www.facebook.com/groups/OikumenouCasemaProstorem)   
+   
 ***
 
 ## Události
@@ -32,11 +40,11 @@ __Četba k přednášce a na seminář:__
 Čítanka: [http://tiny.cc/uvod1](http://tiny.cc/uvod1)   
 Přehled všech přednášek [http://tiny.cc/uvodprehled](http://tiny.cc/uvodprehled)    
 Registrace docházky: [http://tiny.cc/dochazkaregistrace](http://tiny.cc/dochazkaregistrace)    
-
    
    
    
    
+***
 #### Minulé
 
 * [#2 Prázdninové setkání u doc. Pince](https://www.facebook.com/events/1627546073924610/)
