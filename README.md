@@ -4,11 +4,12 @@
    
 - [Rozvrh](#Rozvrh)
 - [Informace](#Informace)
+- [Aktuality](#Aktuality)
 - [Události](#Udalosti)
    
 ***
    
-## Rozvrh přednášek doc. Pince
+# Rozvrh přednášek doc. Pince
 **Kořeny evropské tradice I.** , Po 8:00 (Y1034)   
 **Úvod do fenomenologie III. - Jan Patočka**, Po 12:30 (Y5021)   
 **Oikoumenou časem a prostorem I.**, Po 14:00 (Y1034)    
@@ -16,17 +17,30 @@
    
 ***
    
-## Informace  
+# Informace #  
 * Registrace docházky: [http://tiny.cc/dochazkaregistrace](http://tiny.cc/dochazkaregistrace)    
 * [Facebooková skupina Doc. Pince k jeho přednáškám](https://www.facebook.com/groups/OikumenouCasemaProstorem)   
    
 ***
+   
+# Aktuality  
+   
+## KETI - doporučené knihy z první hodiny: ##   
+- BRAGUE, Rémi. Evropa, římská cesta. Praha: Pedagogická fakulta UK, 1994.   
+- LÉVI-STRAUSS, Claude. Smutné tropy. Přeložil Jiří PECHAR. Praha: Odeon, 1966/2011.   
+- REALE, Giovanni. Platón. Přeložil Martin Cajthaml. Praha: Oikoymenh, 2005.   
+- VAN GENNEP, Arnold. Přechodové rituály: systematické studium rituálů. Přeložil Helena BEGUIVINOVÁ. Praha: Lidové noviny, 1997.   
 
-## Události
+![Alt](/img/ket1_books.png "obálky knih")
+
+
+***
+   
+# Události #
 
 
    
-__#1. Péče o duši - Platón a Aristoteles (#metauvod)__   
+## #1. Péče o duši - Platón a Aristoteles (#metauvod) ##   
 _1. října 2017 (Neděle) v 9:30h_   
 _odkaz FB: [Péče o duši - Platón a Aristoteles](https://www.facebook.com/events/354175528354587/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22null%22%7D&source=4&action_history=null)_
    
