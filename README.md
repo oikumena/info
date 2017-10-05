@@ -1,4 +1,4 @@
-# Zpět na [Oikumena](http://oikumena.cz/)
+# Zpět na [Oikumena](http://oikumena.cz/) #
    
 ##   
    
@@ -31,7 +31,7 @@
 - REALE, Giovanni. Platón. Přeložil Martin Cajthaml. Praha: Oikoymenh, 2005.   
 - VAN GENNEP, Arnold. Přechodové rituály: systematické studium rituálů. Přeložil Helena BEGUIVINOVÁ. Praha: Lidové noviny, 1997.   
 
-![Alt](/img/ket1_books.png "obálky knih")
+![Alt](img/ket1_books.png "obálky knih")
 
 
 ***
@@ -60,14 +60,21 @@ Registrace docházky: [http://tiny.cc/dochazkaregistrace](http://tiny.cc/dochazk
    
 ***
 #### Minulé
+* [#1 metaúvod - Péče o duši - Platón a Aristoteles](https://www.facebook.com/events/354175528354587/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22null%22%7D&source=4&action_history=null)
 
+   __1. října (Neděle) v 9:30h__
+   
+* [#3 Prázdninové setkání u doc. Pince](https://www.facebook.com/events/275659666248331/)
+
+   __3. září 2017 (Neděle) v 10:30h__
+      
 * [#2 Prázdninové setkání u doc. Pince](https://www.facebook.com/events/1627546073924610/)
 
-   __22. července 2017 (Sobota) v 10:30h__
+   __22. července 2017 v 10:30h__
 
 * [#1 Prázdninové setkání u doc. Pince](https://www.facebook.com/events/1463509360339210/)
 
-   __11. června 2017 (Sobota) v 10:00h__
+   __11. června 2017 v 10:00h__
 
 * [Nedělní škola - doc. Pinc - Přišimasy](https://www.facebook.com/events/1564334846941729/)
 
