@@ -9,7 +9,7 @@
    
 ***
    
-# Rozvrh přednášek doc. Pince
+# <a name="Rozvrh">Rozvrh přednášek doc. Pince</a>
 **Kořeny evropské tradice I.** , Po 8:00 (Y1034)   
 **Úvod do fenomenologie III. - Jan Patočka**, Po 12:30 (Y5021)   
 **Oikoumenou časem a prostorem I.**, Po 14:00 (Y1034)    
@@ -17,13 +17,13 @@
    
 ***
    
-# Informace #  
+# <a name="Informace">Informace</a> #  
 * Registrace docházky: [http://tiny.cc/dochazkaregistrace](http://tiny.cc/dochazkaregistrace)    
 * [Facebooková skupina Doc. Pince k jeho přednáškám](https://www.facebook.com/groups/OikumenouCasemaProstorem)   
    
 ***
    
-# Aktuality  
+# <a name="Aktuality">Aktuality</a> #  
    
 ## KETI - doporučené knihy z první hodiny: ##   
 - BRAGUE, Rémi. Evropa, římská cesta. Praha: Pedagogická fakulta UK, 1994.   
